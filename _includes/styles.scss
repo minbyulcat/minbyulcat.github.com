@@ -101,7 +101,7 @@ body {
   .blog-title {
     margin-bottom: 8px;
     font-size: 50px;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: -2px;
     outline: 0;
     line-height: 50px;
@@ -135,7 +135,7 @@ body {
     }
     .post-title {
       letter-spacing: -0.02em;
-      font-weight: 700;
+      font-weight: normal;
       font-style: normal;
       display: block;
       font-size: 36px;
@@ -151,7 +151,7 @@ body {
     }
     .post-excerpt {
       letter-spacing: -0.02em;
-      font-weight: 300;
+      font-weight: normal;
       font-style: normal;
       font-size: 20px;
       line-height: 1.59;
@@ -224,7 +224,7 @@ body {
     font-family: $font-sans;
   }
   .post-title {
-    font-weight: 700;
+    font-weight: normal;
     font-style: normal;
     letter-spacing: -0.04em;
     font-size: 50px;
@@ -266,7 +266,7 @@ body {
     }
     h3, h4, h5, h6 {
       letter-spacing: -0.02em;
-      font-weight: 700;
+      font-weight: normal;
       font-style: normal;
       font-size: 24px;
       line-height: 1.3;
@@ -279,7 +279,7 @@ body {
     }
     h2, h1 {
       letter-spacing: -0.02em;
-      font-weight: 700;
+      font-weight: normal;
       font-style: normal;
       font-size: 42px;
       line-height: 1.2;
@@ -424,7 +424,7 @@ body {
       h4 {
         font-size: 18px;
         line-height: 1.1;
-        font-weight: 700;
+        font-weight: normal;
         padding: 0;
         margin: 0;
         padding-left: 100px;
@@ -470,7 +470,7 @@ body {
         .poweredby {
           display: block;
           padding-bottom: 18px;
-          font-weight: 700;
+          font-weight: normal;
           color: #333333;
         }
       }
