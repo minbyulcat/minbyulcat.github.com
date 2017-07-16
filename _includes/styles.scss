@@ -46,6 +46,7 @@ main {
 }
 
 body {
+  word-break: keep-all;
   background-color: #fff;
   font-family: $font-sans;
   margin: 0;
@@ -470,7 +471,7 @@ body {
         .poweredby {
           display: block;
           padding-bottom: 18px;
-          font-weight: normal;
+          font-weight: 700;
           color: #333333;
         }
       }
