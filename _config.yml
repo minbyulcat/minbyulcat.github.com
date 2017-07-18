@@ -10,7 +10,7 @@ title: 민별 노트 MinByul Note
 email: motivity@gmail.com
 description: >
   Done is better than perfect
-logo: "logo.png"
+logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://note.minbyul.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
