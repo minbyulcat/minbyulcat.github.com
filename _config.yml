@@ -23,7 +23,7 @@ twitter_username: minbyulcat
 github_username: minbyulcat
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-275478-1"
 
 # Build settings
 markdown: kramdown
