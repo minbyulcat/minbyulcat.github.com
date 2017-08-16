@@ -14,8 +14,8 @@ permalink: /about/
 
 이 블로그에서는 제 생각과 저의 흥미를 끄는 것에 대해 글을 쓰려고 합니다. 까먹고 싶지 않은 것들을 그때그때 메모하기 위한 용도로도 쓰입니다.
 
-블로그와는 별도로 늘 눈팅만 하는 트위터(http://twitter.com/minbyulcat)와 깃헙(http://github.com/minbyulcat) 계정을 가지고 있습니다. 하나라도 더 해보려 노력하는데 쉽지가 않네요...
+블로그와는 별도로 늘 눈팅만 하는 [트위터*Twitter @minbyulcat*](http://twitter.com/minbyulcat)와 [깃헙*GitHub @minbyulcat*](http://github.com/minbyulcat) 계정을 가지고 있습니다. 하나라도 더 해보려 노력하는데 쉽지가 않네요...
 
-이 블로그나 저에 대해 궁금한 점이 있으시다면 제 이메일 motivity@gmail.com 이나 트위터 등으로 연락 주시면 가능한 한 빠른 회신 드릴 수 있도록 하겠습니다.
+이 블로그나 저에 대해 궁금한 점이 있으시다면 제 [전자메일 *motivity@gmail.com*](mailto:motivity@gmail.com) 이나 트위터로 연락 주시면 가능한 한 빠른 회신 드릴 수 있도록 하겠습니다.
 
 이 블로그를 방문해주시고 소개를 읽어주셔서 다시 한 번 감사합니다. 오늘도 편안하고 행복한 하루 되세요 :)
