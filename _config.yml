@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 민별 노트 MinByul Note
+title: 민별노트
 email: motivity@gmail.com
 description: >
-  Done is better than perfect
+  Min-Byul's Note
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://note.minbyul.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'MinGyu Jo'
+name: 'Min-Gyu Jo'
 bio: >
   #Mobile-game #Developer #Back-end #DevOps #Python
 author_image: "/assets/images/author.jpg"
